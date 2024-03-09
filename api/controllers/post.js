@@ -13,7 +13,6 @@ export const getPosts = (req, res) => {
 
 
 export const getPost = (req, res) => {
-  console.log("req.params: ",req.params)
   const q =
     "SELECT p.id, u.username, p.titulo AS title, p.descripcion AS `desc`, p.imagen AS img, u.img AS userImg, p.cat, p.fecha FROM users u JOIN posts p ON u.id = p.uid WHERE p.id = ?";
   db.query(q, [req.params.id], (err, data) => {

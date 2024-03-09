@@ -26,7 +26,7 @@ Para poner en marcha la API localmente, sigue estos pasos:
 
 ## Autores
 
-- Nombre del Desarrollador
+- Mario Tomás Islas Castro
 
 ## Licencia
 

@@ -26,7 +26,7 @@ Sigue estos pasos para configurar el entorno de desarrollo:
 
 ## Autores
 
-- Nombre del Desarrollador
+- Mario Tomás Islas Castro
 
 ## Licencia
 
